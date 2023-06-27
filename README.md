@@ -1,14 +1,14 @@
 # php-captcha-solver
 This is php code to make captcha image and validate if it is matched with the image or not 
 
-Instruction to use:
+<b>Instruction to use:</b>
 
-   Firstly install xampp and run the apache web server.
+   1. Firstly install xampp and run the apache web server.
    
-   Thereafter place the file inside xampp directory under htdocs folder
+   2. Thereafter place the file inside xampp directory under htdocs folder
    
-   Run index.php file 
+   3. Run index.php file 
 
    
-If the code run successfully fork the rep
+</i>If the code run successfully fork the rep</i>
     
