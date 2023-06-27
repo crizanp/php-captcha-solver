@@ -10,5 +10,5 @@ This is php code to make captcha image and validate if it is matched with the im
    3. Run index.php file 
 
    
-</i>If the code run successfully fork the rep</i>
+<i>If the code run successfully fork the rep</i>
     
